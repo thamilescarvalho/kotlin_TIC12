@@ -7,4 +7,8 @@ fun main() {
 
     println("Imprimindo o valor da variável t acrescentada de ++: ${t}")
     println("Imprimindo o valor da variável str acrescentada de +: ${str}")
+
+    var B:Boolean = true
+
+    println(B)
 }
