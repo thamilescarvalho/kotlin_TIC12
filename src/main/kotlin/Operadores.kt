@@ -32,11 +32,11 @@ ____________________________
 *  OPERADORES COMPARATIVOS:
 *
 *      > = maior que
-*     >= = maior que ou igual
-*      < = menor
-*     <= = menor que ou igual
+*     >= = maior ou igual
+*      < = menor que
+*     <= = menor ou igual
 *     == = igualdade voltada a comparação
-*     =  = atribuição
+*      = = atribuiçãp
 *     != = diferente
 *
 * */
