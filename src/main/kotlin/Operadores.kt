@@ -36,7 +36,7 @@ ____________________________
 *      < = menor que
 *     <= = menor ou igual
 *     == = igualdade voltada a comparação
-*      = = atribuiçãp
+*      = = atribuição
 *     != = diferente
 *
 * */
